@@ -102,7 +102,7 @@ def main():
 
         messages_path, categories_path, filename = sys.argv[1:]
         
-        print('Extracting Data...\n Extracting Messages{} \n Extracting Categories{}').format(messages_path, categories_path)
+        print('Extracting Data...\n Extracting Messages{} \n Extracting Categories{}'.format(messages_path, categories_path))
         
         df = load_data(messages_path, categories_path)
         
