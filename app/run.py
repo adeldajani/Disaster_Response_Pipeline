@@ -8,6 +8,7 @@ from nltk.tokenize import word_tokenize
 from flask import Flask
 from flask import render_template, request, jsonify
 from plotly.graph_objs import Bar
+# note: if the following import does not work try using (import joblib)
 from sklearn.externals import joblib
 from sqlalchemy import create_engine
 
