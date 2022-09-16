@@ -2,7 +2,7 @@
 In this project I have built a model to classify disaster messages  during disasters
 the data set to this project is provided by Figure Eight. 
 
-###File Description
+### File Description
 
 1)App folder including the templates folder and "run.py" for the web application
 
@@ -14,7 +14,7 @@ the data set to this project is provided by Figure Eight.
 
 5)Preparation folder containing 6 different files, which were used for the project building. (Please note: this folder is not necessary for this project to run.)
 
-###How to run
+### How to run
 
 1)Run the following commands in the project's root directory to set up your database and model.
 
